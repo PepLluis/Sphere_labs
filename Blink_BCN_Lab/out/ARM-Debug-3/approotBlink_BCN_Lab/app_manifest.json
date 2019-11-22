@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"Blink_BCN_Lab","ComponentId":"70333628-f5bf-4f49-9c99-a7ef4ab1ce83","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"Gpio":[8,9,10],"AllowedApplicationConnections":[]},"ApplicationType":"Default","TargetApplicationRuntimeVersion":3}
