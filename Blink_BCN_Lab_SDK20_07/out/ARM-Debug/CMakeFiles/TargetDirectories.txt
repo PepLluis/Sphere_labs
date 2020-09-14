@@ -1,0 +1,4 @@
+C:/Users/PepLluis/source/repos/PepLluis/Sphere_labs/Blink_BCN_Lab_SDK20_07/out/ARM-Debug/CMakeFiles/edit_cache.dir
+C:/Users/PepLluis/source/repos/PepLluis/Sphere_labs/Blink_BCN_Lab_SDK20_07/out/ARM-Debug/CMakeFiles/AzureSphereBlink1.dir
+C:/Users/PepLluis/source/repos/PepLluis/Sphere_labs/Blink_BCN_Lab_SDK20_07/out/ARM-Debug/CMakeFiles/MakeImage.dir
+C:/Users/PepLluis/source/repos/PepLluis/Sphere_labs/Blink_BCN_Lab_SDK20_07/out/ARM-Debug/CMakeFiles/rebuild_cache.dir

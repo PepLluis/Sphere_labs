@@ -1,0 +1,18 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "AzureSphereBlink1",
+  "ComponentId": "9e7cbd9a-4b04-4531-9a34-35ab06aaa6f1",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [
+      "$MT3620_RDB_LED1_GREEN",
+      "$MT3620_RDB_LED1_BLUE",
+      "$MT3620_RDB_LED1_RED",
+      "$MT3620_RDB_BUTTON_A",
+      "$MT3620_RDB_BUTTON_B"
+    ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
